@@ -15,9 +15,9 @@
 </p>
 
 <h2></h2>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwlghks00">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan0123&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan0123&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwlghks00">
+<br>
 
 <h2> Contact </h2>
 <h4>📫 E-mail: qkdwlghks00@gmail.com</h4>
