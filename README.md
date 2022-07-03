@@ -14,15 +14,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-<h2>Github Stats</h2>
+<h2>  </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan0123&theme=material-palenight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan0123&layout=compact&theme=material-palenight)
-
-<h2>Solved.ac</h2>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwlghks00)](https://solved.ac/qkdwlghks00)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwlghks00)](https://solved.ac/qkdwlghks00)
 
 <h2> Contact </h2>
 <h4>📫 E-mail: qkdwlghks00@gmail.com</h4>
